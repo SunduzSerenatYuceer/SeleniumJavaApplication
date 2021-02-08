@@ -1,0 +1,109 @@
+2021-02-07 22:09:39 DEBUG JTest:36 - Homepage opened successfully.
+2021-02-07 22:09:40 DEBUG JTest:38 - Homepage opened successfully.
+2021-02-07 22:09:45 DEBUG JTest:43 - Homepage opened successfully.
+2021-02-07 22:09:54 DEBUG JTest:54 - Log in successful.
+2021-02-07 22:10:10 DEBUG JTest:68 - Search page 2 opened successfully.
+2021-02-07 22:10:17 DEBUG JTest:76 - Product page opened successfully.
+2021-02-07 22:10:21 DEBUG JTest:88 - Product price matches with the cart price.
+2021-02-07 22:10:25 DEBUG JTest:97 - Product quantity increased successfully.
+2021-02-07 22:10:25 DEBUG JTest:104 - Product has been removed from the cart successfully.
+2021-02-07 23:27:50 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:27:50 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:27:55 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:28:04 DEBUG JTest:54 - Login successful.
+2021-02-07 23:28:17 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:28:22 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:28:27 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:30:52 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:30:52 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:30:57 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:31:06 DEBUG JTest:54 - Login successful.
+2021-02-07 23:31:19 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:31:25 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:33:30 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:33:30 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:33:36 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:33:46 DEBUG JTest:54 - Login successful.
+2021-02-07 23:33:58 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:34:03 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:34:07 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:34:31 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:34:31 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:40:39 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:40:39 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:40:44 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:40:53 DEBUG JTest:54 - Login successful.
+2021-02-07 23:41:06 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:41:11 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:41:16 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:45:45 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:45:45 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:45:51 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:45:59 DEBUG JTest:54 - Login successful.
+2021-02-07 23:46:12 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:46:17 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:47:18 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:47:18 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:47:23 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:47:32 DEBUG JTest:54 - Login successful.
+2021-02-07 23:47:44 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:47:50 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:47:54 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:47:57 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-07 23:47:57 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-07 23:49:35 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:49:35 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:49:40 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:49:49 DEBUG JTest:54 - Login successful.
+2021-02-07 23:50:02 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:50:07 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:50:12 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:50:15 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-07 23:50:15 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-07 23:53:14 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-07 23:53:14 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-07 23:53:19 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-07 23:53:28 DEBUG JTest:54 - Login successful.
+2021-02-07 23:53:41 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-07 23:53:46 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-07 23:53:51 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-07 23:53:54 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-07 23:53:54 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-08 00:01:50 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-08 00:01:50 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-08 00:02:08 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-08 00:02:09 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-08 00:02:14 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-08 00:02:22 DEBUG JTest:54 - Login successful.
+2021-02-08 00:02:36 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-08 00:02:41 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-08 00:02:46 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-08 00:02:49 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-08 00:02:49 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-08 00:03:13 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-08 00:03:13 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-08 00:03:19 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-08 00:03:28 DEBUG JTest:54 - Login successful.
+2021-02-08 00:03:40 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-08 00:03:47 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-08 00:03:51 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-08 00:03:55 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-08 00:03:55 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-08 00:07:23 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-08 00:07:23 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-08 00:07:28 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-08 00:07:37 DEBUG JTest:54 - Login successful.
+2021-02-08 00:07:50 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-08 00:07:55 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-08 00:08:00 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-08 00:08:03 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-08 00:08:03 DEBUG JTest:104 - The cart is emptied successfully.
+2021-02-08 01:39:06 DEBUG JTest:36 - Homepage is opened successfully.
+2021-02-08 01:39:06 DEBUG JTest:38 - Homepage is opened successfully.
+2021-02-08 01:39:11 DEBUG JTest:43 - Homepage is opened successfully.
+2021-02-08 01:39:20 DEBUG JTest:54 - Login successful.
+2021-02-08 01:39:33 DEBUG JTest:68 - Search page 2 is opened successfully.
+2021-02-08 01:39:39 DEBUG JTest:76 - Product page is opened successfully.
+2021-02-08 01:39:44 DEBUG JTest:88 - Product price is equal to the cart price.
+2021-02-08 01:39:47 DEBUG JTest:97 - Quantity of the product increased to 2 successfully.
+2021-02-08 01:39:47 DEBUG JTest:104 - The cart is emptied successfully.
